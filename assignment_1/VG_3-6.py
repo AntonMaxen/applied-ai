@@ -6,7 +6,7 @@ import multiprocessing as mp
 from tqdm import tqdm
 import time
 
-df = pd.read_csv('./data/distances.csv')
+df = pd.read_csv('assignment_1\data\distanceslonglat.csv')
 cities = df['Start'].unique()
 
 cities_index = dict(zip(cities, range(len(cities))))
