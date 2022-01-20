@@ -86,6 +86,9 @@ https://machinelearningmastery.com/fbeta-measure-for-machine-learning/
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html
 
 
+Handle null values 
 
+Question - how to create syntethic data? other techniques?
 
+https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
 
