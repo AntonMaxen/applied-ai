@@ -53,7 +53,7 @@ Things to study:
 		- Decision Tree
 
 2.3 Data Analytics:
-	Solve classimbalances by using smote to create syntetic oversampling, by creating
+	Solve class imbalances by using smote to create syntetic oversampling, by creating
 	variations of minor class. Depending on if we have alot of data in the minor class
 	we could instead just remove values from major class.
 
@@ -67,6 +67,25 @@ Things to study:
 		- SVM
 		- Logistic Regression
 		- KNN
+
+
+
+
+
+To read more about : 
+
+SVM: RBF/kernels, GAMMA, C, hyperparameter tuning 
+https://towardsdatascience.com/hyperparameter-tuning-for-support-vector-machines-c-and-gamma-parameters-6a5097416167
+https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf
+https://www.youtube.com/watch?v=N1vOgolbjSc
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+
+
+f1, f beta score: 
+https://machinelearningmastery.com/fbeta-measure-for-machine-learning/
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html
+
+
 
 
 
