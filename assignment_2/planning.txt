@@ -1,0 +1,72 @@
+Analyzation:
+	- UMAP
+
+Correlations:
+	- Heatmap
+
+Class Imbalances
+	How to find them?
+		- Use Python to count classes and see if they are evenly divided.
+	How to fix them?
+		- Smote.
+		- Data augmentation.
+		- Remove from Major class if alot of data in minor class.
+
+Unessecary Features:
+NA-Values:
+
+
+Dimensionaly Reduction:
+	How do i do it?
+		PCA:
+			Identify patterns i ndataset and the distill the variables down to their most
+			important features.
+			Remove redundant data.
+
+			Optimizes the describing variances.
+			Curse of dimensionality.
+
+
+
+Lectures of interest:
+	Recent 4 lectures.
+
+
+F1 Score:
+	What does f1 score mean how to weigh it.
+
+Things to study:
+	Feature selection.
+	F1 Score.
+
+2.1 Data analytics:
+	Easy to do just count the classes and remove NA values,
+	Find correlations, use UMAP cause it is cool.
+
+
+2.2 Model:
+	Choose Classifications algorithm for example SVM. Get f1 score by comparing
+	true values with predicted values. 
+	Different kinds of classification algorithm:
+		- Logistic Regression
+		- SVM
+		- Decision Tree
+
+2.3 Data Analytics:
+	Solve classimbalances by using smote to create syntetic oversampling, by creating
+	variations of minor class. Depending on if we have alot of data in the minor class
+	we could instead just remove values from major class.
+
+	Use PCA and show what features are unessecary. Heatmap on correlations.
+	Does the dimensionreduction with PCA improve your result?
+	Test to do pure feature selection: https://scikit-learn.org/stable/modules/feature_selection.html 
+
+2.4 Model:
+	Try FBeta values 0.5, 1.2 for minor class
+	Use 2 different classification alghorithms and compare results.
+		- SVM
+		- Logistic Regression
+		- KNN
+
+
+
