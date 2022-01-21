@@ -99,6 +99,8 @@ https://datascience.stackexchange.com/questions/71804/how-to-perform-one-hot-enc
 
 
 
+One hot encoding
+https://datascience.stackexchange.com/questions/71804/how-to-perform-one-hot-encoding-on-multiple-categorical-columns
 
 2022-01-23 13:00
 Do G on Clustering
