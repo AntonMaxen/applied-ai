@@ -92,3 +92,7 @@ Question - how to create syntethic data? other techniques?
 
 https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
 
+1/21/2022
+
+encoding strings
+https://datascience.stackexchange.com/questions/71804/how-to-perform-one-hot-encoding-on-multiple-categorical-columns
