@@ -105,3 +105,17 @@ https://datascience.stackexchange.com/questions/71804/how-to-perform-one-hot-enc
 2022-01-23 13:00
 Do G on Clustering
 Find sources for VG classification
+
+K mean
+https://www.youtube.com/watch?v=_aWzGGNrcic
+
+
+iloc advanced
+
+# Get all rows where a row has 1 or more truth 
+mask = np.logical_and((4200 < cluster_df['body_mass_g']),(cluster_df['body_mass_g'] < 5000))
+
+cluster_df.iloc[list(mask), :]
+
+knee elbow method
+https://towardsdatascience.com/detecting-knee-elbow-points-in-a-graph-d13fc517a63c
