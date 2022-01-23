@@ -119,3 +119,28 @@ cluster_df.iloc[list(mask), :]
 
 knee elbow method
 https://towardsdatascience.com/detecting-knee-elbow-points-in-a-graph-d13fc517a63c
+
+
+
+2022-01-24 13:00
+Do VG classification
+https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
+https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
+https://github.com/carljendle/TH/blob/main/Lek5/class_imbalance.py
+
+Topics to read.
+PCA:
+	- 
+Class imbalance:
+	- Smote (oversampling) [Creates variations of minor class data]
+	- Check what variations exists (Over sampling and under sampling)
+	- What makes these variations good, depening on what data you have.
+
+feature selection:
+	- What variations of feature selection.
+
+feature importance:
+
+
+
+
