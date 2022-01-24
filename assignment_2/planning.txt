@@ -98,7 +98,6 @@ encoding strings
 https://datascience.stackexchange.com/questions/71804/how-to-perform-one-hot-encoding-on-multiple-categorical-columns
 
 
-
 One hot encoding
 https://datascience.stackexchange.com/questions/71804/how-to-perform-one-hot-encoding-on-multiple-categorical-columns
 
@@ -121,7 +120,6 @@ knee elbow method
 https://towardsdatascience.com/detecting-knee-elbow-points-in-a-graph-d13fc517a63c
 
 
-
 2022-01-24 13:00
 Do VG classification
 https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
@@ -140,6 +138,12 @@ feature selection:
 	- What variations of feature selection.
 
 feature importance:
+
+
+
+Smote:
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
 
 
 
