@@ -4,3 +4,10 @@ matplotlib
 scikit-opt
 geopy
 tqdm
+umap-learn
+seaborn
+scikit-learn
+kneedle
+torch
+torchvision
+pendulum
