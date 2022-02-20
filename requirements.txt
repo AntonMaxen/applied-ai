@@ -7,7 +7,7 @@ tqdm
 umap-learn
 seaborn
 scikit-learn
-kneedle
-torch
-torchvision
+kneed
 pendulum
+ipykernel
+imbalanced-learn
