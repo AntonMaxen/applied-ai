@@ -1,28 +1,19 @@
 # Machine Learning
 ## Classification
-Visualization of classification dataset.
 
 ![Feature selection with variance threshhold]
+(https://github.com/AntonMaxen/applied-ai/blob/master/assignment_2/images/classification/feature_selection_with_variance_threshhold.png)
 
-![Feature selection with variance threshhold]
+![Dimensionality reduction with PCA]
+(https://github.com/AntonMaxen/applied-ai/blob/master/assignment_2/images/classification/dimentionality_reduction_with_pca.png)
 
+![Handle class imbalance with smote]
+(https://github.com/AntonMaxen/applied-ai/blob/master/assignment_2/images/classification/handle_class_imbalance_with_smote.png)
 
-Predictions of trained model.
-
-![Classification dataset visualized](https://github.com/AntonMaxen/applied-ai/blob/master/assignment_3/images/heatmap_predictions.png)
-
-
-How batchsize affect training times.
-
-![Classification dataset visualized](https://github.com/AntonMaxen/applied-ai/blob/master/assignment_3/images/time_vs_batchsize.png)
-
+![Maximize beta score]
+(https://github.com/AntonMaxen/applied-ai/blob/master/assignment_2/images/classification/maximize_beta_score.png)
 
 ## Regression
-Predictions compared to Truth.
 
-![Classification dataset visualized](https://github.com/AntonMaxen/applied-ai/blob/master/assignment_3/images/predictions_vs_truth.png)
-
-
-Epoch vs Loss during training.
-
-![Classification dataset visualized](https://github.com/AntonMaxen/applied-ai/blob/master/assignment_3/images/epoch_vs_loss.png)
+![Predictions vs mse value]
+(https://github.com/AntonMaxen/applied-ai/blob/master/assignment_2/images/regression/predictions_vs_mse_value.png)
