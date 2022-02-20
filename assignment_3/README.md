@@ -2,7 +2,7 @@
 ## Classification
 Visualization of classification dataset.
 
-![Classification dataset visualized](https://github.com/AntonMaxen/applied-ai/blob/master/assignment_3/images/visual_classification.png)
+![Classification dataset visualized](https://github.com/AntonMaxen/applied-ai/blob/master/assignment_3/images/visual_classification.PNG)
 
 
 Predictions of trained model.
